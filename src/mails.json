@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "author": "Riri <riri@react.com>",
+    "subject": "Subject for Riri [001]",
+    "message": "Hello, World! [riri]"
+  },
+  {
+    "id": 2,
+    "author": "Fifi <fifi@react.com>",
+    "subject": "Subject for Fifi [002]",
+    "message": "Hello, World! [fifi]"
+  },
+  {
+    "id": 3,
+    "author": "Loulou <loulou@react.com>",
+    "subject": "Subject for Loulou [003]",
+    "message": "Hello, World! [loulou]"
+  }
+]
